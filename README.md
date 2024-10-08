@@ -1,7 +1,5 @@
 # FOD 
- <p align="center">
-  <img src= "https://i.postimg.cc/Dz6np5m4/Imagen.jpg" alt = "FOD"/>
-</p>
+
 
 ## PRÁCTICAS 
 `Índice de Prácticas`
